@@ -1,0 +1,11 @@
+
+/* .course{
+    text-align: center;
+  } */
+
+.row-course1{
+    text-align: center;
+    grid-template-columns: 1fr;
+    display: grid;
+    
+}

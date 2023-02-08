@@ -1,0 +1,29 @@
+/* @import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  border-bottom: 2px solid gray;
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 40px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+}
+
+.App-block {
+  display: block;
+  width: 100%;
+} */

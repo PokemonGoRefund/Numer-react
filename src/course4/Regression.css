@@ -1,0 +1,105 @@
+
+.root-header {
+    border-bottom: 2px solid #C6C6C6;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .table-column {
+  text-align: center;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+} */
+
+/* .bg-table{ 
+  /* background-color: #F3D2AC; */
+  /* height: 20rem; */
+  /* border-radius: 5px; */
+  /* margin: auto; */
+  /* text-align: center; */
+  /* justify-content: center; */
+  /* display: block; */
+/* }  */
+
+/* .table-div{
+  display: block;
+} */
+
+.rooteq-course-div{
+    margin-left: 4rem;
+    margin-right: 3rem;
+    display: block;
+}
+
+.bt_calculate{
+    background-color: #003B73;
+    color: white;
+    font-size: 15px;
+    margin-left: 5rem;
+    margin-top: 1.5rem;
+    display: block;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.bt_inputvalue{
+  background-color: #282A35;
+  color: white;
+  font-size: 15px;
+  /* display: block; */
+  width: 120px;
+  height: 50px;
+  margin-left: 2rem;
+  border-radius: 10px;
+}
+
+.rooteq-block{
+    /* margin-left: 3rem;
+    margin-right: 3rem; */
+    display: block;
+}
+
+table{
+    background-color: black;
+    color: white;
+    width: auto;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  /* .table-t{
+    background-color: black;
+    color: white;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  } */
+  .tdd{
+    background-color: #cfe2f3;
+    color: black;
+    border: 1px solid;
+    text-align: center;
+  }
+  .tdd-d{
+    margin-top:2rem ;
+    text-align: left;
+  }
+  td{
+    background-color: #cfe2f3;
+    color: black;
+    border: 1px solid;
+    text-align: left;
+  }
+  th{
+    background-color: #0b2744;
+    color: white;
+    /* width: 10%; */
+    /* border: 1px solid; */
+  }

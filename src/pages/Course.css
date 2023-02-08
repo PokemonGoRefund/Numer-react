@@ -1,0 +1,124 @@
+
+/* .course{
+    text-align: center;
+  } */
+
+.course-header {
+    border-bottom: 2px solid #C6C6C6;
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.bt_home2{
+    background-color: #282A35;
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 12px;
+    margin-bottom: -82px;
+    
+    display: block;
+    width: 60px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.bt_home{
+    background-color: #282A35;
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 12px;
+    margin-bottom: -82px;
+    
+    display: block;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.row-course{
+    text-align: center;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    
+}
+
+.bg-rooteq{ 
+    background-color: #F3D2AC;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.rooteq-course-div{
+    display: block;
+}
+
+.bt_root_of_equation{
+    background-color: #282A35;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 300px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.bg-linear{  
+    background-color: #F3B8B1;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bg-polation{
+    background-color: #CECBD6;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bg-linearRegression{ 
+    background-color: #7DC8CA;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bg-numericalDifferentiation{  
+    background-color: #CAE9E0;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.bg-ordinaryDifferentiation{ 
+    background-color: #CBAACB;
+    height: 20rem;
+    border-radius: 5px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
